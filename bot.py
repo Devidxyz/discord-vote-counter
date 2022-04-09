@@ -34,4 +34,4 @@ async def on_message(message: Message):
         graph = pyasciigraph.graph(None, data)
         await message.reply("```" + "\n".join(graph) + "```")
 
-client.run('OTYyMzIxNzUyMjU4NjQ2MDI2.YlF1-A.TC-Yl9jizeAHoXgSHHOx3mi4DrY')
+client.run('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
