@@ -1,7 +1,5 @@
-from platform import python_branch
-from unicodedata import name
 import discord
-from discord import Message, TextChannel
+from discord import Message
 
 from graph import Pyasciigraph
 
